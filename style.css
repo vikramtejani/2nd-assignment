@@ -1,0 +1,149 @@
+.background{
+    background-color: pink;
+    position: absolute;
+    display: flex;
+}
+.icons{
+    position: absolute;
+}
+#menu{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+#user{
+    margin-top: 100px;
+    margin-left: 40px;
+    display: list-item;
+}
+#chat{
+    margin-top: 20px;
+    margin-left: 43px;
+    display: list-item;
+}
+#arrow{
+    margin-top: 20px;
+    margin-left: 43px;
+    display: list-item;
+}
+#eyes{
+    margin-top: 20px;
+    margin-left: 43px;
+}
+#store{
+    margin-top: 20px;
+    margin-left: 44px;
+    display: list-item;
+}
+#download{
+    margin-top: 110px;
+    margin-left: 40px;
+}
+.img{
+    position: absolute;
+    width: 500px;
+    height: 620px;
+    margin-left: 130px;
+    margin-top: 13px;
+}
+.imgs{
+    position: absolute;
+}
+#fb{
+    position: absolute;
+    margin-left: 350px;
+}
+#facebook{
+    width: 30px;
+    height: 30px;
+    margin-top: 100px;
+}
+.intro{
+    background-color: aliceblue;
+    height: 560px;
+    width: 1260px;
+    margin: 40px 40px 40px 40px;
+    
+}
+#para{
+    margin-left: 650px;
+    margin-right: 25px;
+    margin-top: 35px;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    position: absolute;
+    
+}
+#my{
+    margin-left: 650px;
+    margin-top: 100px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#compu{
+    position: absolute;
+    margin-left: 650px;
+    
+}
+#D{
+    margin-left: 650px;
+    margin-top: 63px;
+}
+#p{
+    margin-left: 651px;
+    margin-top: 232px;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pa{
+    margin-left: 651px;
+    margin-top: -10px;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#par{
+    margin-top: -10px;
+    margin-left: 651px;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#book{
+    position: absolute;
+    margin-left: 650px;
+}
+.footer2{
+    position: absolute;
+}
+#booster{
+    position: absolute;
+    margin-left: 1019px;
+    margin-top: 342px;
+}
+#s{
+    margin-top: 387px;
+    margin-left: 1019px;
+}
+#a{
+    margin-left: 1019px;
+    margin-top: -10px;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#t{
+    margin-left: 1019px;
+    margin-top: -10px;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#m{
+    margin-left: 1019px;
+    margin-top: -10px;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cut{
+    position: absolute;
+    margin-left: 1019px;
+    margin-top: 6px;
+}
